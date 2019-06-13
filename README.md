@@ -1,2 +1,2 @@
 # Graph-ADT
-A Java program to simulate a graph Abstract Data Type
+A Java program to simulate a Graph Abstract Data Type
